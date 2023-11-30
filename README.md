@@ -1,3 +1,5 @@
+<img src="./logo.png" width="90" align="right" />
+
 # Cellular Automaton
 Explore the world of cellular automata with this comprehensive repository featuring various implementations, including the classic Elementary Cellular Automata.
 
